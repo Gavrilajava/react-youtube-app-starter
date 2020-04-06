@@ -1,0 +1,28 @@
+
+.search {
+  height: 10em;
+  border: 1px solid black;
+}
+
+.search-result {
+  border: 1px solid black;
+  margin: 0 0 auto auto;
+  display: inline-block;
+  width: 20vw;
+}
+
+.video {
+  border: 1px solid black;
+  display: inline-block;
+  width: 80vw;
+  margin: 0 auto auto auto;
+  vertical-align: top;
+}
+
+iframe {
+  width: 20em;
+  height: 10em;
+  margin: 5em auto auto auto;
+  display: block;
+  position: relative;
+}
